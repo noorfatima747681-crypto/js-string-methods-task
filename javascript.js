@@ -89,7 +89,7 @@ console.log(listResult);
 // Syntax: string1.concat(string2)
 // Why We Use: To merge first name and last name.
 // Code Exp:
-let firsttName = "Noor";
+let firstName = "Noor";
 let LastName = "Fatima";
 let FinalResult = fisrtName.concat(" ",LastName)
 console.log(FinalResult);
